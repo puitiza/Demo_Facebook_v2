@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Facebook2</string>
+    <string name="login">Registrarte con Facebook</string>
+    <string name="facebook_app_id">194081541168741</string>
+</resources>
